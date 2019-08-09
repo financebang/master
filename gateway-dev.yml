@@ -126,5 +126,5 @@ info:
   company:
     name: "软件著作权: 快速搭建企业级分布式微服务平台"
   build:
-    artifactId: @pom.artifactId@
+    artifactId: "@pom.artifactId@"
     version: 1.0.0
