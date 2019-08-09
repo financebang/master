@@ -4,6 +4,13 @@ server:
     remote-ip-header: x-forwarded-for
   use-forward-headers: true
 
+info:
+  company:
+    name: "软件著作权: 快速搭建企业级分布式微服务平台"
+  build:
+    artifactId: ${spring.application.name}
+    version: 1.0.0
+
 management:
   security:
     enabled: false
