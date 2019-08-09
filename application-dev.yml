@@ -39,9 +39,9 @@ spring:
         login-username: admin
         login-password: admin
   mail:
-    host: smtp.163.com
-    username: paascloudTest@163.com
-    password: a123456
+    host: smtp.exmail.qq.com
+    username: wusangui@baoxiucai.com
+    password: 1qaz2WSX
     port: 465
     protocol: smtp
     test-connection: false
@@ -100,9 +100,9 @@ hystrix:
             timeoutInMilliseconds: 20000
 
 info:
-  软件著作权: paascloud快速搭建企业级分布式微服务平台
-  著作登记号: 2018SR320076
-  关于我们: http://paascloud.net
+  软件著作权: 快速搭建企业级分布式微服务平台
+  著作登记号: 77777777
+  关于我们: http://wsglukey.net
 
 paascloud:
   auth:
