@@ -127,4 +127,4 @@ info:
     name: "软件著作权: 快速搭建企业级分布式微服务平台"
   build:
     artifactId: ${spring.application.name}
-    version: 1.0.0
+    version: 1.0.1
