@@ -100,10 +100,11 @@ hystrix:
             timeoutInMilliseconds: 20000
 
 info:
-  软件著作权: 快速搭建企业级分布式微服务平台
-  著作登记号: 77777777
-  关于我们: http://wsglukey.net
-
+  company:
+    name: "软件著作权: 快速搭建企业级分布式微服务平台"
+  build:
+    artifactId: "@pom.artifactId@"
+    version: 1.0.0
 paascloud:
   auth:
     jwt:
